@@ -1,2 +1,2 @@
 # Yash-Sambalwar
-Hey, welcome to my repositrory
+Hey, welcome to my repositry
